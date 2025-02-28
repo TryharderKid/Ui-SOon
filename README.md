@@ -4,7 +4,7 @@
 ![Fluent Renewed Title](Assets/darkmodee.png#gh-light-mode-only)
 
 
-- [MCL_HAVOC](https://github.com/TryharderKid/Ui-SOon) - The master mind behind Fluent Renewed
+- [MCL_HAVOC](https://github.com/TryharderKid/Ui-SOon) - The Litteral Mastermind of Lurnai
 - [Master Oogway](https://github.com/ActualMasterOogway/Fluent-Renewed) - The master mind behind Fluent Renewed
 - [dawid](https://github.com/dawid-scripts/Fluent) - The master mind behind Fluent
 - [Lucide](https://github.com/lucide-icons), [Phosphor](https://github.com/phosphor-icons) - The sexy icons
