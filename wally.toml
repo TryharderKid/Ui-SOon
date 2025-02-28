@@ -1,8 +1,8 @@
 [package]
-name = "actualmasteroogway/fluent-renewed"
-version = "1.0.5"
+name = "TryharderKid/Ui-SOon"
+version = "1.0.0"
 license = "MIT"
-authors = ["ActualMasterOogway"]
+authors = ["TryharderKid"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
