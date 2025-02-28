@@ -1,7 +1,7 @@
-local Main = require(game:GetService("ReplicatedStorage"):WaitForChild("Fluent"):WaitForChild("MainModule"))
+local Main = require(game:GetService("ReplicatedStorage"):WaitForChild("Lurnai"):WaitForChild("MainModule"))
 
 local Window = Main:Window{
-    Title = `Fluent {Main.Version}`,
+    Title = `Lurnai {Main.Version}`,
     SubTitle = "by Actual Master Oogway",
     TabWidth = 160,
     Size = UDim2.fromOffset(830, 525),
@@ -384,7 +384,7 @@ Main.MinimizeKeybind = Main.Options.MenuKeybind
 Window:SelectTab(1)
 
 Main:Notify({
-    Title = "Fluent",
+    Title = "Lurnai",
     Content = "The script has been loaded.",
     Duration = 8
 })
