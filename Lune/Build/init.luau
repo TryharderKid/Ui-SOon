@@ -155,10 +155,10 @@ elseif Subcommand == "bundle" then
 	local Options = ParseArgs(CommandArgs, {
 		-- Option = {Type, DefaultValue, IsRequired?}
 		["input"] = { "string", "default.project.json" },
-		["script-output"] = { "string", "Distribution/Fluent.luau" },
-		["model-output"] = { "string", "Distribution/Fluent.rbxm" },
+		["script-output"] = { "string", "Distribution/Lurnai.luau" },
+		["model-output"] = { "string", "Distribution/Lurnai.rbxm" },
 		["minify"] = { "boolean", false },
-		["env-name"] = { "string", "Fluent Renewed" },
+		["env-name"] = { "string", "Lurnai" },
 		["darklua-config-path"] = { "string", "Lune/Build/DarkLua Config.json" },
 		["temp-dir-base"] = { "string", "Distribution" },
 		["extra-offset-lines"] = { "number", 0 },
