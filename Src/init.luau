@@ -61,7 +61,7 @@ local SharedTable = shared or _G or (getgenv and getgenv()) or getfenv(1)
 local New = Creator.New
 
 local BaseContainer = New("ScreenGui", {
-	Name = "Fluent Renewed Base GUI"
+	Name = "Lurnai Base GUI"
 })
 
 BaseContainer.Parent = (function() -- https://github.com/Pepsied-5229/Pepsi-UI-Library/blob/main/Pepsi-UI-Library.lua#L503
@@ -108,7 +108,7 @@ BaseContainer.Parent = (function() -- https://github.com/Pepsied-5229/Pepsi-UI-L
 	return error("Seriously bad engine. Can't find a place to store the GUI. Robust code can't help this much incompetence.", 0)
 end)()
 
-SharedTable.FluentRenewed = SharedTable.FluentRenewed or {}
+SharedTable.Lurnai = SharedTable.Lurnai or {}
 
 NotificationModule:Init(BaseContainer)
 
@@ -266,7 +266,7 @@ function Library:Window(Config: {
 	if not Config.Title then
 		local Success, Game_Info = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
 		
-		Config.Title = Success and Game_Info.Name or "Fluent Renewed"
+		Config.Title = Success and Game_Info.Name or "Lurnai"
 	end
 
 	Config.MinSize = if typeof(Config.MinSize) == "Vector2" then Config.MinSize else Vector2.new(470, 380)
@@ -291,7 +291,7 @@ function Library:Window(Config: {
 		MinSize = Config.MinSize,
 
 		Title = Config.Title,
-		SubTitle = Config.SubTitle or "Made with Fluent Renewed",
+		SubTitle = Config.SubTitle or "Made with Lurnai",
 
 		TabWidth = Config.TabWidth or 160,
 		Mobile = Config.Mobile or {
@@ -302,7 +302,7 @@ function Library:Window(Config: {
 		}
 	}
 
-	BaseContainer.Name = `FluentRenewed_{Config.Title}`
+	BaseContainer.Name = `Lurnai_{Config.Title}`
 
 	Library.CreatedWindow = Window
 	Library:SetTheme(Library.Theme)
