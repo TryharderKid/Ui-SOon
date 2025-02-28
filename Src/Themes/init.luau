@@ -31,7 +31,7 @@ local Themes = {
 		"DuoTone Dark Sea",
 		"DuoTone Dark Sky",
 		"DuoTone Dark Space",
-		"DuoTone Dark Forest",
+		"Forest Green",
 		"DuoTone Dark Earth",
 		"VSC Dark+",
 		"VSC Dark Modern",
