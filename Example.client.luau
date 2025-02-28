@@ -2,7 +2,7 @@ local Main = require(game:GetService("ReplicatedStorage"):WaitForChild("Lurnai")
 
 local Window = Main:Window{
     Title = `Lurnai {Main.Version}`,
-    SubTitle = "by Actual Master Oogway",
+    SubTitle = "by MCL_HAVOC",
     TabWidth = 160,
     Size = UDim2.fromOffset(830, 525),
     Resize = true,
