@@ -1,4 +1,4 @@
-# Fluent Renewed
+# Lurnai
 
 ![Fluent Renewed Title](Assets/darkmodee.png#gh-dark-mode-only)
 ![Fluent Renewed Title](Assets/darkmodee.png#gh-light-mode-only)
