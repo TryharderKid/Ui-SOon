@@ -3,32 +3,8 @@
 ![Fluent Renewed Title](Assets/darkmodee.png#gh-dark-mode-only)
 ![Fluent Renewed Title](Assets/darkmodee.png#gh-light-mode-only)
 
-## ⚡ Features
 
-- Modern design
-- Many customization options
-- Almost any UI Element you would ever need
-
-## 🔌 Installation
-
-You can load Fluent through a GitHub Release:
-
-```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-
-```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-
-## 📜 Usage
-
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
-
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
-
-## Credits
-
+- [MCL_HAVOC](https://github.com/TryharderKid/Ui-SOon) - The master mind behind Fluent Renewed
 - [Master Oogway](https://github.com/ActualMasterOogway/Fluent-Renewed) - The master mind behind Fluent Renewed
 - [dawid](https://github.com/dawid-scripts/Fluent) - The master mind behind Fluent
 - [Lucide](https://github.com/lucide-icons), [Phosphor](https://github.com/phosphor-icons) - The sexy icons
