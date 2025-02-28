@@ -1,7 +1,7 @@
 # Fluent Renewed
 
-![Fluent Renewed Title](Assets/darkmode.png#gh-dark-mode-only)
-![Fluent Renewed Title](Assets/darkmode.png#gh-light-mode-only)
+![Fluent Renewed Title](Assets/darkmodee.png#gh-dark-mode-only)
+![Fluent Renewed Title](Assets/darkmodee.png#gh-light-mode-only)
 
 ## ⚡ Features
 
