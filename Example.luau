@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGetAsync("https://github.com/TryharderKid/Ui-SOon/releases/latest/download/Lurnai.luau"))()
+local Library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TryharderKid/Ui-SOon/refs/heads/main/DownloadIG"))()
 local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TryharderKid/Ui-SOon/master/Addons/SaveManager.luau"))()
 local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TryharderKid/Ui-SOon/master/Addons/InterfaceManager.luau"))()
  
